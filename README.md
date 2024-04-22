@@ -1,2 +1,2 @@
 # about-me
-About me
+About me: I am an undergraduate student at the University of Central Florida. My career goals are centered around becoming a cybersecurity specialist and contribute to building safer digital environments and working in real-world scenarios, whether that be through securing networks, developing secure software, or conducting vulnerability assessments and penetration testing. Shortly after joining UCF I joined the club Hack@UCF which has been a great environment to meet likeminded people in this field and gain actual cybersecurity knowledge and experience in these areas.
